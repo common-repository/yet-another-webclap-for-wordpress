@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: yawp-webclap 0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-04 21:27+0900\n"
+"PO-Revision-Date: 2011-08-04 21:41+0900\n"
+"Last-Translator: __trial <raki_suta@hotmail.co.jp>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;gettext\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/wordpress3.01/wp-content/\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: plugins/yawp-webclap\n"
+
+msgid "Webclap for wordpress. 1. add button by webclap widget, 2. make webclap form by shortcode [webclap], 3. view analysis from dashboard."
+msgstr "WordPress に web拍手を組み込んでみた。1.新規ページにショートコード[webclap]でページがweb拍手フォームに。2.ウィジェットweb拍手をサイドバーに追加し、web拍手フォームのurlをリンク先に記述。3.解析画面はダッシュボード>yaWeb拍手から。"
+
+#: plugins/yawp-webclap/yawp-webclap.php:21
+#: plugins/yawp-webclap/yawp-webclap.php:34
+#: plugins/yawp-webclap/yawp-webclap.php:420
+#: plugins/yawp-webclap/yawp-webclap.php:458
+#: plugins/yawp-webclap/yawp-webclap.php:459
+msgid "webclap"
+msgstr "web拍手"
+
+#: plugins/yawp-webclap/yawp-webclap.php:173
+msgid "yaWebclap analysis"
+msgstr "yaWeb拍手 解析"
+
+#: plugins/yawp-webclap/yawp-webclap.php:173
+msgid "yaWebclap"
+msgstr "yaWeb拍手"
+
+#: plugins/yawp-webclap/yawp-webclap.php:209
+msgid "Analysis Results"
+msgstr "web拍手 解析結果"
+
+#: plugins/yawp-webclap/yawp-webclap.php:210
+msgid "Total"
+msgstr "合計拍手数"
+
+#: plugins/yawp-webclap/yawp-webclap.php:211
+msgid "Today's"
+msgstr "今日の拍手数"
+
+#: plugins/yawp-webclap/yawp-webclap.php:212
+msgid "Yesterday's"
+msgstr "昨日の拍手数"
+
+#: plugins/yawp-webclap/yawp-webclap.php:213
+msgid "Last 7 days"
+msgstr "過去7日間"
+
+#: plugins/yawp-webclap/yawp-webclap.php:214
+msgid "This month"
+msgstr "今月の拍手数"
+
+#: plugins/yawp-webclap/yawp-webclap.php:222
+msgid "Today's analysis log"
+msgstr "今日の拍手履歴"
+
+#: plugins/yawp-webclap/yawp-webclap.php:227
+msgid "Yesterday's analysis log"
+msgstr "昨日の拍手履歴"
+
+#: plugins/yawp-webclap/yawp-webclap.php:229
+#, php-format
+msgid "%d/%d 's analysis log"
+msgstr "%d月%d日の拍手履歴"
+
+#: plugins/yawp-webclap/yawp-webclap.php:236
+#: plugins/yawp-webclap/yawp-webclap.php:238
+#, php-format
+msgid "%d/%d"
+msgstr "%d月%d日"
+
+#: plugins/yawp-webclap/yawp-webclap.php:246
+msgid "This month's analysis log"
+msgstr "今月の拍手履歴"
+
+#: plugins/yawp-webclap/yawp-webclap.php:248
+#, php-format
+msgid "20%d.%02d 's analysis log"
+msgstr "%d年%d月の拍手履歴"
+
+#: plugins/yawp-webclap/yawp-webclap.php:255
+#: plugins/yawp-webclap/yawp-webclap.php:257
+#, php-format
+msgid "20%d.%02d"
+msgstr "%d年%d月"
+
+#: plugins/yawp-webclap/yawp-webclap.php:266
+msgid "Comment log"
+msgstr "拍手コメント ログ"
+
+#: plugins/yawp-webclap/yawp-webclap.php:284
+msgid "IP address"
+msgstr "IPアドレス"
+
+#: plugins/yawp-webclap/yawp-webclap.php:285
+msgid "date"
+msgstr "日時"
+
+#: plugins/yawp-webclap/yawp-webclap.php:286
+msgid "comment"
+msgstr "コメント"
+
+#: plugins/yawp-webclap/yawp-webclap.php:395
+#: plugins/yawp-webclap/yawp-webclap.php:401
+msgid "Comment Form"
+msgstr "コメントフォーム"
+
+#: plugins/yawp-webclap/yawp-webclap.php:397
+msgid "Send more"
+msgstr "もっと送る"
+
+#: plugins/yawp-webclap/yawp-webclap.php:406
+msgid "Thank you for your webclaps!"
+msgstr "たくさんの拍手ありがとうございました。"
+
+#: plugins/yawp-webclap/yawp-webclap.php:419
+msgid "set webclap button"
+msgstr "web拍手のボタンを設置する"
+
+#: plugins/yawp-webclap/yawp-webclap.php:433
+msgid "Title:"
+msgstr "タイトル："
+
+#: plugins/yawp-webclap/yawp-webclap.php:436
+msgid "Link to (url):"
+msgstr "リンク先（url）："
+
+#: plugins/yawp-webclap/yawp-webclap.php:439
+msgid "Image (url):"
+msgstr "画像（url）："
+
+#: plugins/yawp-webclap/yawp-webclap.php:442
+msgid "Text:"
+msgstr "テキスト："
+
+#~ msgid "Yesterday"
+#~ msgstr "昨日の"
+
+#~ msgid "/"
+#~ msgstr "月"
+
+#~ msgid "Yesterday's "
+#~ msgstr "昨日の"
+
+#, fuzzy
+#~ msgid "total clap count"
+#~ msgstr "拍手数の合計"
+
+#, fuzzy
+#~ msgid "today's clap count"
+#~ msgstr "拍手数の合計"
